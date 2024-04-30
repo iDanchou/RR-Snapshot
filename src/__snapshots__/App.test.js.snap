@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Avatar"
+    className="avatar"
+    src="http://placekitten.com/400/300"
+  />
+  <div
+    className="data"
+  >
+    <div>
+      <h1>
+        Full Stack Developer
+      </h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+    </div>
+    <div
+      className="skill-list"
+    >
+      <div
+        className="skill"
+        style={
+          Object {
+            "backgroundColor": "pink",
+          }
+        }
+      >
+        <span>
+          JavaScript
+        </span>
+        <span>
+          💪🏾
+        </span>
+      </div>
+      <div
+        className="skill"
+        style={
+          Object {
+            "backgroundColor": "teal",
+          }
+        }
+      >
+        <span>
+          React
+        </span>
+        <span>
+          ⚛️
+        </span>
+      </div>
+      <div
+        className="skill"
+        style={
+          Object {
+            "backgroundColor": "purple",
+          }
+        }
+      >
+        <span>
+          HTML+CSS
+        </span>
+        <span>
+          💪🏾
+        </span>
+      </div>
+      <div
+        className="skill"
+        style={
+          Object {
+            "backgroundColor": "yellow",
+          }
+        }
+      >
+        <span>
+          Python
+        </span>
+        <span>
+          🐍
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
